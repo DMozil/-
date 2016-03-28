@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\bin\Debug\Гаманець.exe.config
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\bin\Debug\Гаманець.exe
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\bin\Debug\Гаманець.pdb
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\obj\Debug\Гаманець.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\obj\Debug\Гаманець.exe
+C:\Users\1\Desktop\STEP\PM\Гаманець\Гаманець\obj\Debug\Гаманець.pdb
