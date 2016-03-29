@@ -10,7 +10,8 @@ namespace Гаманець
     {
         static void Main(string[] args)
         {
-            
+            BusinessCard b = new BusinessCard();
+            b.D();           
 
         }
     }
