@@ -10,6 +10,8 @@ namespace Гаманець
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, it`s new commit");
+
             BusinessCard b = new BusinessCard();
             b.D();           
 
